@@ -1,0 +1,14 @@
+/Users/apple/Desktop/exmen4/bin/Debug/net10.0/exmen4
+/Users/apple/Desktop/exmen4/bin/Debug/net10.0/exmen4.deps.json
+/Users/apple/Desktop/exmen4/bin/Debug/net10.0/exmen4.runtimeconfig.json
+/Users/apple/Desktop/exmen4/bin/Debug/net10.0/exmen4.dll
+/Users/apple/Desktop/exmen4/bin/Debug/net10.0/exmen4.pdb
+/Users/apple/Desktop/exmen4/obj/Debug/net10.0/exmen4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Desktop/exmen4/obj/Debug/net10.0/exmen4.AssemblyInfoInputs.cache
+/Users/apple/Desktop/exmen4/obj/Debug/net10.0/exmen4.AssemblyInfo.cs
+/Users/apple/Desktop/exmen4/obj/Debug/net10.0/exmen4.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/exmen4/obj/Debug/net10.0/exmen4.dll
+/Users/apple/Desktop/exmen4/obj/Debug/net10.0/refint/exmen4.dll
+/Users/apple/Desktop/exmen4/obj/Debug/net10.0/exmen4.pdb
+/Users/apple/Desktop/exmen4/obj/Debug/net10.0/exmen4.genruntimeconfig.cache
+/Users/apple/Desktop/exmen4/obj/Debug/net10.0/ref/exmen4.dll
